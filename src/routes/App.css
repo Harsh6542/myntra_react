@@ -1,0 +1,37 @@
+.app-container {
+    display: flex;
+    width: 100%;
+
+}
+
+.content {
+    width: 100%;
+}
+
+.post-card {
+    margin: 20px 50px;
+}
+
+.tag_margin {
+    margin: 3px;
+}
+
+.createpost {
+    padding: 10px;
+    width: 50%;
+    margin-left: 25px;
+    margin-top: 25px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.welcomeMsg {
+    margin-top: 75px;
+    margin-bottom: 75px;
+    color: red;
+
+}
+.loading{
+    margin-top: 10%;
+    
+}
